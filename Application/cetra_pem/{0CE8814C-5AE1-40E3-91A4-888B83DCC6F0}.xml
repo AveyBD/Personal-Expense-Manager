@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2018/09/11" author="e.World Technology Ltd.">
+  <project id="{0CE8814C-5AE1-40E3-91A4-888B83DCC6F0}" file="D:\Projects\Personal\Development Lab\Web Applications\Personal Expense Manager\02. Development\cetra-pem.pmp" name="cetra_pem" product="PHPMaker" version="15.0" datetime="2018/09/11 13:16:01" languagefolder="lang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+    <table id="pem_categories" name="pem_categories" caption="Categories" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="pem_exp_source" name="pem_exp_source" caption="Expense Sources" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="pem_expenses" name="pem_expenses" caption="Expenses" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="pem_payment_type" name="pem_payment_type" caption="Payment Types" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="users" name="users" caption="Users" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="userlevelpermissions" name="userlevelpermissions" caption="User Level Permissions" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="userlevels" name="userlevels" caption="User Levels" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="dashboard" name="dashboard.php" caption="Dashboard" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="pem_accounts" name="pem_accounts" caption="Accounts" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+  </project>
+</configuration>
